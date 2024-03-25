@@ -2,7 +2,7 @@
 
 Assignment 1 for CP1404/CP5632, IT@JCU
 
-By: _Your Name_
+By: _JiaxinLi_
 
 This repo contains starter files:  
 
@@ -17,8 +17,8 @@ the `answer...` parts).
 
 1. How long did the entire project (assignment 1) take you?
 
-    answer...
+    I wrote this code from start to finish in about ten days, with countless debugging sessions, and a couple of those days were spent working on assignments for other subjects so it seems to have taken a long time. In fact, it did take me a lot of time!
 
 2. What do you plan to do differently in your development process for assignment 2?
 
-    answer...
+    When completing assignment2, I plan to allocate the assignment time more reasonably, set up a clear plan to complete the daily progress, and work with my classmates to make regular feedback on each other's code, and ask my classmates or the teacher if there are any problems I don't  understand. Reduce the appearance of repetitive code, so that my code looks more concise and clear! 
